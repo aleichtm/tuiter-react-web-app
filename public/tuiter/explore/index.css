@@ -1,0 +1,51 @@
+#search {
+    background-color: darkgray;
+    border-radius: 5px;
+    float: left;
+}
+#wd-settings-icon {
+    color: deepskyblue;
+    float: right;
+    margin-right: 12px;
+}
+.wd-clear {
+    clear: both;
+    margin-bottom: 4em;
+}
+.wd-tab {
+    color: #6e767d;
+    padding: 16px;
+    float: left;
+    border-bottom-style: solid;
+}
+#selected-tab {
+    color: #1da1f2;
+    border-bottom-color: #1da1f2;
+}
+
+.wd-post {
+    margin-top: 10px;
+    clear: both;
+}
+
+.wd-light-text {
+    color: #6e767d;
+    font-size: 13px;
+}
+
+.wd-author {
+    color: white;
+    font-size: 13px;
+}
+
+.wd-image {
+    float: right;
+    margin-right: 16px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.wd-left {
+    float: left;
+    margin-top: 10px;
+}

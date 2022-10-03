@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    margin-left: 16px;
+    border-color: #2f3336;
+    color: white;
+    font-size: 15px;
+}
+
+.wd-light-gray {
+    color: lightgray;
+}
+
+.wd-small-text {
+    font-size: 13px;
+}
+
+a {
+    color: unset;
+    text-decoration: unset;
+}
