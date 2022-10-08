@@ -1,7 +1,15 @@
 body {
     background-color: black;
     margin-left: 16px;
-    border-color: #2f3336;
+    padding-left: 16px;
+    margin-right: 16px;
+    padding-right: 16px;
+    border-left-color: #2f3336;
+    border-right-color: #2f3336;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-left-style: solid;
+    border-right-style: solid;
     color: white;
     font-size: 15px;
 }
@@ -17,4 +25,8 @@ body {
 a {
     color: unset;
     text-decoration: unset;
+}
+
+.wd-float-left {
+    float: left;
 }
