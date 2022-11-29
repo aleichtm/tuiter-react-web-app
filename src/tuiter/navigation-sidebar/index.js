@@ -20,7 +20,7 @@ const NavigationSidebar = (
             </a>
             <a className={`list-group-item
                     ${active === 'labs'?'active':''}`}
-               href="../labs">
+               href="/labs">
                 <i className="bi bi-asterisk"></i> Labs
             </a>
             <a className={`list-group-item
