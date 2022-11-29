@@ -11,6 +11,8 @@ function App() {
                 <Routes>
                     <Route index
                            element={<Tuiter/>}/>
+                    <Route path="/tuiter"
+                           element={<Tuiter/>}/>
                     <Route path="/hello"
                            element={<HelloWorld/>}/>
                     <Route path="/labs"
